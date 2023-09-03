@@ -1,1 +1,3 @@
-(https://autumn-absconds.github.io/duo-studio/)https://autumn-absconds.github.io/duo-studio/
+Hero section of DUO website..
+
+(https://autumn-absconds.github.io/duo-studio/)
